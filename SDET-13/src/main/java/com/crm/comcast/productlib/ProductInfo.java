@@ -7,5 +7,7 @@ package com.crm.comcast.productlib;
 public class ProductInfo {
 	
 	// elemnet1 = "xpath"
+	
+	//elemnet2 = "xpath"  //sthaya
 
 }
